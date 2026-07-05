@@ -34,41 +34,83 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## Latest News
-- **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**, which will take place in Denver, CO, USA, on August 11-13, 2027.
+<section class="latest-news-block">
+  <div class="latest-news-block__header">
+    <div>
+      <p class="latest-news-block__eyebrow">Recent six months</p>
+      <p class="latest-news-block__note">Showing updates from January 2026 onward. Older items are archived on the News page.</p>
+    </div>
+    <a class="latest-news-block__archive" href="{{ site.baseurl }}/news/">See more news</a>
+  </div>
 
-- **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
+  <div class="latest-news-list">
+    <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-06</span><strong>PC Member</strong></div>
+      <p>I have been invited to serve as a Program Committee Member for <a href="https://www.usenix.org/conference/usenixsecurity27">USENIX Security 2027</a>, which will take place in Denver, CO, USA, on August 11-13, 2027.</p>
+    </article>
 
-{% include paper-card-hiuccsd-jctc.html %}
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-06</span><strong>Paper Published</strong></div>
+      <p>Our paper <em>"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"</em> has been published online in <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057">Journal of Chemical Theory and Computation</a>. <a href="https://doi.org/10.1021/acs.jctc.6c00057">DOI</a> · <a href="https://arxiv.org/abs/2512.21087">arXiv</a></p>
+    </article>
 
-- **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[SETSS 2026](https://www.rise-swu.cn/SETSS2026/)**, the International School on Engineering Trustworthy Software Systems.
+    <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-06</span><strong>PC Member</strong></div>
+      <p>I have been invited to serve as a Program Committee Member for <a href="https://www.rise-swu.cn/SETSS2026/">SETSS 2026</a>, the International School on Engineering Trustworthy Software Systems.</p>
+    </article>
 
-- **[2026-05-17]** 📄 **Paper Published** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits"* has been published in the **[FM 2026 proceedings](https://link.springer.com/chapter/10.1007/978-3-032-26204-2_30)**. [DOI](https://doi.org/10.1007/978-3-032-26204-2_30) · [arXiv](https://arxiv.org/abs/2605.14881) · [PDF]({{ site.baseurl }}/files/qseqsim-fm2026.pdf)
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-05-17</span><strong>Paper Published</strong></div>
+      <p>Our paper <em>"QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits"</em> has been published in the <a href="https://link.springer.com/chapter/10.1007/978-3-032-26204-2_30">FM 2026 proceedings</a>. <a href="https://doi.org/10.1007/978-3-032-26204-2_30">DOI</a> · <a href="https://arxiv.org/abs/2605.14881">arXiv</a> · <a href="{{ site.baseurl }}/files/qseqsim-fm2026.pdf">PDF</a></p>
+    </article>
 
-{% include paper-card-qseqsim-fm2026.html %}
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-05-13</span><strong>Paper Published</strong></div>
+      <p>Our paper <em>"Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion"</em> has been published online in <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269">Journal of Chemical Theory and Computation</a>. <a href="https://doi.org/10.1021/acs.jctc.6c00269">DOI</a> · <a href="https://arxiv.org/abs/2602.04253">arXiv</a></p>
+    </article>
 
-- **[2026-05-13]** 📄 **Paper Published** — Our paper *"Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
+    <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-05</span><strong>Area Chair</strong></div>
+      <p>I have been invited to serve as an Area Chair for the <a href="https://ai4sciencecommunity.github.io/icml26.html">AI for Science Workshop at ICML 2026</a>.</p>
+    </article>
 
-{% include paper-card-param-adapt-vqe-jctc.html %}
+    <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-05</span><strong>PC Member</strong></div>
+      <p>I have been invited to serve as a PC member for <a href="https://qce.quantum.ieee.org/2026/">IEEE Quantum Week 2026</a>.</p>
+    </article>
 
-- **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
-- **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
-- **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.
-- **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-04-18</span><strong>Two Papers Accepted</strong></div>
+      <p>Our papers <em>"Formal Verification of Quantum Ancilla Safety"</em> and <em>"Model Checking Matrix Product States Against Linear Chain Logic"</em> have been accepted at <a href="https://conferences.i-cav.org/2026/">CAV 2026</a>.</p>
+    </article>
 
-{% include book-card-quantum-robustness.html %}
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-04</span><strong>Book Chapter</strong></div>
+      <p>Our contributed chapter has been officially published in Springer’s <a href="https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10"><em>Quantum Robustness in Artificial Intelligence</em></a>. <a href="{{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf">Chapter PDF</a></p>
+    </article>
 
-- **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **[SCIENCE CHINA Physics, Mechanics & Astronomy](https://www.sciengine.com/SCPMA/home)**. 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantum processors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
-- **[2026-01]** 🏆**Awarded Chinese Academy of Sciences “Future Partner Network” Grant (International Collaboration & Exchange)**, jointly with A\Prof. Alfons Laarman (Leiden University, the Netherlands). 
-- **[2025-11]** 📢 **PC Member**: I serve as a TPC member of **[IEEE ICC 2026](https://icc2026.ieee-icc.org)** and please submit your paper.
-- **[2025-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2026](https://www.ieee-qcnc.org/2026/)** and please submit your paper.
-- **[2025-10]** 📢 **PC Member**: I serve as a PC member of **[CAV 2026](https://conferences.i-cav.org/2026/)** and please submit your paper.
-- **[2025-09]** 🏆**Awarded CCF–QuantumCTek Quantum Superconducting Quantum Computing Collaborative Research Project**.  
-- **[2025-09]** 📄 **Paper Accepted** — Our paper *"Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits"* has been accepted at **[IEEE TCAD](https://ieee-ceda.org/publications/tcad)**. 📄 [arXiv:2503.10340](https://arxiv.org/abs/2503.10340)
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-03</span><strong>Paper Accepted</strong></div>
+      <p>Our paper <em>"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"</em> has been accepted at <a href="https://www.sciengine.com/SCPMA/home">SCIENCE CHINA Physics, Mechanics & Astronomy</a>.</p>
+    </article>
 
-**[See more news](./news)**  
-  
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-02</span><strong>Paper Accepted</strong></div>
+      <p>Our paper <em>"Lin-search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search"</em> has been accepted at <a href="https://dac.com/2026">DAC 2026</a>.</p>
+    </article>
+
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-02</span><strong>Paper Accepted</strong></div>
+      <p>Our paper <em>"A quantum game designed for property partitioning with implementation on superconducting quantum processors"</em> has been accepted at <a href="https://www.sciencedirect.com/journal/theoretical-computer-science">Theoretical Computer Science</a>.</p>
+    </article>
+
+    <article class="latest-news-item latest-news-item--grant">
+      <div class="latest-news-item__meta"><span>2026-01</span><strong>Grant Awarded</strong></div>
+      <p>Awarded Chinese Academy of Sciences “Future Partner Network” Grant for international collaboration and exchange, jointly with A/Prof. Alfons Laarman.</p>
+    </article>
+  </div>
+</section>
+
 ---
 ## Join Our Team
 
