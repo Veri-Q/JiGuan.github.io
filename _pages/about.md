@@ -37,7 +37,6 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 <section class="latest-news-block">
   <div class="latest-news-block__header">
     <div>
-      <p class="latest-news-block__eyebrow">Recent six months</p>
       <p class="latest-news-block__note">Showing updates from January 2026 onward. Older items are archived on the News page.</p>
     </div>
     <a class="latest-news-block__archive" href="{{ site.baseurl }}/news/">See more news</a>
