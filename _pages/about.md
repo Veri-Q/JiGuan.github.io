@@ -219,7 +219,6 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 ## Team
 
 ### Ph.D. Students
-- **Mingyu Huang**  
 - **Zihao Li**
 - **Chenjian Li**
 - **Travis Han Yuen Lam**
@@ -231,6 +230,9 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 - **Zhengyang Zhou**  
 - **Yecheng Qin**  
 - **Yi Zhan**
+
+### Graduates
+- **Mingyu Huang**, R&D Engineer, Beijing Zhongke Huguang Quantum Co., Ltd. (北京中科弧光量子公司)
 
 ### Visiting Scholars
 - **Peng Yan**, Nanjing University of Posts and Telecommunications
