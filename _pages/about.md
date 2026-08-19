@@ -53,6 +53,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
       <p>I have been invited as a speaker to the <a href="http://qlab.bimsa.cn/events/qtot/2026">Quantum Theory and Operator Theory (QTOT) Satellite Conference</a>, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.</p>
     </article>
 
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-07-24</span><strong>Two CAV Papers Published</strong></div>
+      <p>Our CAV 2026 papers <em>"Formal Verification of Quantum Ancilla Safety"</em> and <em>"Model Checking Matrix Product States Against Linear Chain Logic"</em> have been officially published in the proceedings. <a href="https://link.springer.com/chapter/10.1007/978-3-032-32537-2_16">Ancilla Safety</a> · <a href="https://link.springer.com/chapter/10.1007/978-3-032-32537-2_17">MPS Model Checking</a></p>
+    </article>
+
     <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-06</span><strong>PC Member</strong></div>
       <p>I have been invited to serve as a Program Committee Member for <a href="https://www.usenix.org/conference/usenixsecurity27">USENIX Security 2027</a>, which will take place in Denver, CO, USA, on August 11-13, 2027.</p>
@@ -86,11 +91,6 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
     <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-05</span><strong>PC Member</strong></div>
       <p>I have been invited to serve as a PC member for <a href="https://qce.quantum.ieee.org/2026/">IEEE Quantum Week 2026</a>.</p>
-    </article>
-
-    <article class="latest-news-item latest-news-item--paper">
-      <div class="latest-news-item__meta"><span>2026-04-18</span><strong>Two Papers Accepted</strong></div>
-      <p>Our papers <em>"Formal Verification of Quantum Ancilla Safety"</em> and <em>"Model Checking Matrix Product States Against Linear Chain Logic"</em> have been accepted at <a href="https://conferences.i-cav.org/2026/">CAV 2026</a>.</p>
     </article>
 
     <article class="latest-news-item latest-news-item--paper">
@@ -153,12 +153,12 @@ We are recruiting Master's and Ph.D. students, postdoctoral researchers, researc
 1. Li, J., Mei, J., Fang, W., and **Guan, J.** (2026).  
    *Formal Verification of Quantum Ancilla Safety*.  
    **CAV 2026**.  
-   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanji1992@gmail.com?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
+   [Paper](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_16) · [DOI](https://doi.org/10.1007/978-3-032-32537-2_16) · [arXiv](https://arxiv.org/abs/2608.13099) · [PDF](https://link.springer.com/content/pdf/10.1007/978-3-032-32537-2_16.pdf) · [Artifact](https://doi.org/10.5281/zenodo.19784589) · [GitHub](https://github.com/Veri-Q/Ancilla-Safety)
 
 2. Xu, M., Chen, Y., and **Guan, J.** (2026).  
    *Model Checking Matrix Product States Against Linear Chain Logic*.  
    **CAV 2026**.  
-   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanji1992@gmail.com?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
+   [Paper](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_17) · [DOI](https://doi.org/10.1007/978-3-032-32537-2_17) · [arXiv](https://arxiv.org/abs/2605.14356) · [PDF](https://link.springer.com/content/pdf/10.1007/978-3-032-32537-2_17.pdf) · [Artifact](https://doi.org/10.5281/zenodo.19694363) · [GitHub](https://github.com/Veri-Q/MC-MPS)
 
 3. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  

@@ -11,6 +11,8 @@ author_profile: true
 
 - **[2026-08]** 📢 **Invited Speaker** — I have been invited as a speaker to the **[Quantum Theory and Operator Theory (QTOT) Satellite Conference](http://qlab.bimsa.cn/events/qtot/2026)**, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.
 
+- **[2026-07-24]** 📄 **Two CAV Papers Published** — Our CAV 2026 papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been officially published in the proceedings. [Ancilla Safety](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_16) · [MPS Model Checking](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_17)
+
 - **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**, which will take place in Denver, CO, USA, on August 11-13, 2027.
 
 - **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
@@ -29,7 +31,6 @@ author_profile: true
 
 - **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
 - **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
-- **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.
 - **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
 {% include book-card-quantum-robustness.html %}
