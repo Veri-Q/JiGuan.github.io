@@ -75,7 +75,7 @@ Full publication list: [Publications](./publications)
 ## Service
 
 - **Program Committee Member:** [CAV 2025](https://conferences.i-cav.org/2025/) / [CAV 2026](https://conferences.i-cav.org/2026/), [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27), [QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/), [IEEE ICC 2026](https://icc2026.ieee-icc.org/), [IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/), [SETSS 2025](https://tis.ios.ac.cn/SETSS2025/) / [SETSS 2026](https://www.rise-swu.cn/SETSS2026/), [ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)
-- **Area Chair:** [AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)
+- **Area Chair:** [AI for Science Workshop at NeurIPS 2026](https://ai4sciencecommunity.github.io/neurips26.html), [AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)
 - **Editorial Board Member:** Theoretical Computer Science Section, *Frontiers in Computer Science*
 - **Reviewer:** CAV, ASPLOS, CDC, QIP, CSL, AQIS, IEEE QCE, PLanQC, QPL, COCOON, ICFEM, ACM Transactions on Quantum Computing, IEEE Transactions on Information Theory, SIAM Journal on Control and Optimization, *Science Bulletin*, *Journal of Computer Science and Technology*, *Information Processing Letters*, and *IEEE Transactions on Emerging Topics in Computational Intelligence*
 

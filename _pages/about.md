@@ -44,6 +44,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
   <div class="latest-news-list">
     <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-08</span><strong>Area Chair</strong></div>
+      <p>I have been nominated to serve as an Area Chair for the <a href="https://ai4sciencecommunity.github.io/neurips26.html">AI for Science Workshop at NeurIPS 2026</a>.</p>
+    </article>
+
+    <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-08</span><strong>Invited Speaker</strong></div>
       <p>I have been invited as a speaker to the <a href="http://qlab.bimsa.cn/events/qtot/2026">Quantum Theory and Operator Theory (QTOT) Satellite Conference</a>, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.</p>
     </article>
@@ -200,6 +205,7 @@ I contribute to the research community through program committee work, area chai
 - **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)** - China National Software Conference
 
 ### Area Chair
+- **[AI for Science Workshop at NeurIPS 2026](https://ai4sciencecommunity.github.io/neurips26.html)** - Verification in the Age of AI Scientists
 - **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)** - AI Scientists: Tools, Co-authors, or Founders?
 
 ### Editorial Board Member

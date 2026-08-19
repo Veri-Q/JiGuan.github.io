@@ -7,6 +7,8 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-08]** 📢 **Area Chair** — I have been nominated to serve as an Area Chair for the **[AI for Science Workshop at NeurIPS 2026](https://ai4sciencecommunity.github.io/neurips26.html)**.
+
 - **[2026-08]** 📢 **Invited Speaker** — I have been invited as a speaker to the **[Quantum Theory and Operator Theory (QTOT) Satellite Conference](http://qlab.bimsa.cn/events/qtot/2026)**, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.
 
 - **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**, which will take place in Denver, CO, USA, on August 11-13, 2027.
