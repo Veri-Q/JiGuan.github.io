@@ -232,7 +232,7 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 - **Yi Zhan**
 
 ### Graduates
-- **Mingyu Huang**, R&D Engineer, Beijing Zhongke Huguang Quantum Co., Ltd. (北京中科弧光量子公司)
+- **Mingyu Huang**, R&D Engineer, Arclight Quantum (北京中科弧光量子软件技术有限公司)
 
 ### Interns
 - **Yanling Lin**
