@@ -234,14 +234,17 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 ### Graduates
 - **Mingyu Huang**, R&D Engineer, Beijing Zhongke Huguang Quantum Co., Ltd. (北京中科弧光量子公司)
 
-### Visiting Scholars
+### Interns
+- **Yanling Lin**
+
+---
+
+## Visiting Scholars
+
 - **Peng Yan**, Nanjing University of Posts and Telecommunications
 - **Jingyi Mei**, Leiden University, the Netherlands
 - **Wang Fang**, University of Edinburgh, UK
 - **Ningning Chen**, University of Shanghai for Science and Technology
-
-### Interns
-- **Yanling Lin**
 
 ---
 
