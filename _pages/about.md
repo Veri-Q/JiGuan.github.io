@@ -233,8 +233,10 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 - **Yi Zhan**
 
 ### Visiting Scholars
-- **Peng Yan**  
-- **Jingyi Mei**
+- **Peng Yan**, Nanjing University of Posts and Telecommunications
+- **Jingyi Mei**, Leiden University, the Netherlands
+- **Wang Fang**, University of Edinburgh, UK
+- **Ningning Chen**, University of Shanghai for Science and Technology
 
 ### Interns
 - **Yanling Lin**
