@@ -44,6 +44,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
   <div class="latest-news-list">
     <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-08</span><strong>Invited Speaker</strong></div>
+      <p>I have been invited as a speaker to the <a href="http://qlab.bimsa.cn/events/qtot/2026">Quantum Theory and Operator Theory (QTOT) Satellite Conference</a>, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.</p>
+    </article>
+
+    <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-06</span><strong>PC Member</strong></div>
       <p>I have been invited to serve as a Program Committee Member for <a href="https://www.usenix.org/conference/usenixsecurity27">USENIX Security 2027</a>, which will take place in Denver, CO, USA, on August 11-13, 2027.</p>
     </article>

@@ -7,6 +7,8 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-08]** 📢 **Invited Speaker** — I have been invited as a speaker to the **[Quantum Theory and Operator Theory (QTOT) Satellite Conference](http://qlab.bimsa.cn/events/qtot/2026)**, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.
+
 - **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**, which will take place in Denver, CO, USA, on August 11-13, 2027.
 
 - **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
