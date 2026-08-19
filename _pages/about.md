@@ -221,9 +221,13 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 ### Ph.D. Students
 - **Mingyu Huang**  
 - **Zihao Li**
+- **Chenjian Li**
+- **Travis Han Yuen Lam**
 
 ### Master's Students
 - **Jiqi Li**
+- **Kehan Li**
+- **Jiaxuan Li**
 - **Zhengyang Zhou**  
 - **Yecheng Qin**  
 - **Yi Zhan**
