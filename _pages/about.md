@@ -44,6 +44,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
   <div class="latest-news-list">
     <article class="latest-news-item">
+      <div class="latest-news-item__meta"><span>2026-09</span><strong>TPC Member</strong></div>
+      <p>I have been invited to serve as a Technical Program Committee member for Track 2: Quantum Computing and Sensing at <a href="https://qcnc.org/">QCNC 2027</a>, which will take place in Hokkaido, Japan, March 22-26, 2027.</p>
+    </article>
+
+    <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-08</span><strong>Area Chair</strong></div>
       <p>I have been nominated to serve as an Area Chair for the <a href="https://ai4sciencecommunity.github.io/neurips26.html">AI for Science Workshop at NeurIPS 2026</a>.</p>
     </article>
@@ -198,7 +203,7 @@ I contribute to the research community through program committee work, area chai
 ### Program Committee Member
 - **[CAV 2025](https://conferences.i-cav.org/2025/) / [CAV 2026](https://conferences.i-cav.org/2026/)** - International Conference on Computer Aided Verification
 - **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)** - USENIX Security Symposium
-- **[QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/)** - International Conference on Quantum Communications, Networking, and Computing
+- **[QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/) / [QCNC 2027](https://qcnc.org/)** - International Conference on Quantum Communications, Networking, and Computing
 - **[IEEE ICC 2026](https://icc2026.ieee-icc.org/)** - IEEE International Conference on Communications
 - **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
 - **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/) / [SETSS 2026](https://www.rise-swu.cn/SETSS2026/)** - International School on Engineering Trustworthy Software Systems
