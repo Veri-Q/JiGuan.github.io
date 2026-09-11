@@ -45,7 +45,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
   <div class="latest-news-list">
     <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-09</span><strong>TPC Member</strong></div>
-      <p>I have been invited to serve as a Technical Program Committee member for Track 2: Quantum Computing and Sensing at <a href="https://qcnc.org/">QCNC 2027</a>, which will take place in Hokkaido, Japan, March 22-26, 2027.</p>
+      <p>I have been invited to serve as a TPC member for <a href="https://qcnc.org/">QCNC 2027</a>.</p>
     </article>
 
     <article class="latest-news-item latest-news-item--paper">
@@ -55,7 +55,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
     <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-09-05</span><strong>TPC Member</strong></div>
-      <p>I have been invited to serve as a Technical Program Committee member for the Quantum Communications and Information Technology track (SAC) at <a href="https://www.comsoc.org/conferences-events/ieee-international-conference-communications-2027">IEEE ICC 2027</a>.</p>
+      <p>I have been invited to serve as a TPC member for <a href="https://www.comsoc.org/conferences-events/ieee-international-conference-communications-2027">IEEE ICC 2027</a>.</p>
     </article>
 
     <article class="latest-news-item">
