@@ -19,7 +19,7 @@ redirect_from:
 
 ## Highlights
 
-- Publications in **CAV (2021/2022/2024/2026)**, **ACM CCS (2023/2025)**, **IEEE TIT (2023/2024)**, **SICOMP**, **FM (2024/2026)**, **IEEE TCAD**, **JCTC**, and **DAC 2026**
+- Publications in **CAV (2021/2022/2024/2026)**, **ACM CCS (2023/2025/2026; 2026 accepted)**, **IEEE TIT (2023/2024)**, **SICOMP**, **FM (2024/2026)**, **IEEE TCAD**, **JCTC**, and **DAC 2026**
 - Co-lead the [VeriQ](https://www.veri-q.com) trustworthy quantum computing toolchain spanning verification, robustness, and privacy
 - Hardware-facing collaboration on robustness assessment and benchmarking on a superconducting quantum processor, including Origin Wukong
 
@@ -41,6 +41,7 @@ redirect_from:
 
 ## Selected Publications
 
+- **Guan, J.**, and Huang, M. *Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access*. **ACM CCS 2026**. Accepted; proceedings forthcoming. [arXiv](https://arxiv.org/abs/2609.11637)
 - **Guan, J.\***, Feng, Y., Turrini, A., and Ying, M. *Measurement-based Verification of Quantum Markov Chains*. **CAV 2024**
 - **Guan, J.\***, Fang, W., and Ying, M. *Verifying Fairness in Quantum Machine Learning*. **CAV 2022**
 - **Guan, J.\***, Fang, W., and Ying, M. *Robustness Verification of Quantum Classifiers*. **CAV 2021**
@@ -49,7 +50,7 @@ redirect_from:
 - He, R., Ablimit, A., Hong, X., Chai, Q., Zhou, J., **Guan, J.**, Cui, G., and Ying, S. *Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver*. **Journal of Chemical Theory and Computation**, 2026
 - Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. *New Quantum Algorithms for Computing Quantum Entropies and Distances*. **IEEE Transactions on Information Theory**, 2024
 
-Full publication list: [Publications](./publications)
+Full publication list: [Publications]({{ site.baseurl }}/publications/)
 
 ## Research Grants and Funding
 

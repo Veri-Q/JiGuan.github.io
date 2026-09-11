@@ -48,6 +48,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
       <p>I have been invited to serve as a Technical Program Committee member for Track 2: Quantum Computing and Sensing at <a href="https://qcnc.org/">QCNC 2027</a>, which will take place in Hokkaido, Japan, March 22-26, 2027.</p>
     </article>
 
+    <article class="latest-news-item latest-news-item--paper">
+      <div class="latest-news-item__meta"><span>2026-09-08</span><strong>CCS Paper Accepted</strong></div>
+      <p>Our paper <em>"Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access"</em> has been accepted to <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>. The preprint is now available on <a href="https://arxiv.org/abs/2609.11637">arXiv</a>; the proceedings version is forthcoming.</p>
+    </article>
+
     <article class="latest-news-item">
       <div class="latest-news-item__meta"><span>2026-08</span><strong>Area Chair</strong></div>
       <p>I have been nominated to serve as an Area Chair for the <a href="https://ai4sciencecommunity.github.io/neurips26.html">AI for Science Workshop at NeurIPS 2026</a>.</p>
@@ -180,12 +185,17 @@ We are recruiting Master's and Ph.D. students, postdoctoral researchers, researc
    **CAV 2021**  
    [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7) · [DOI](https://doi.org/10.1007/978-3-030-81685-8_7) · [arXiv](https://arxiv.org/abs/2008.07230)
 
-6. **Guan, J.** (2025).  
+6. **Guan, J.**, and Huang, M. (2026).  
+   *Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access*.  
+   **ACM CCS 2026**. Accepted; proceedings forthcoming.  
+   [arXiv](https://arxiv.org/abs/2609.11637)
+
+7. **Guan, J.** (2025).  
    *Optimal Mechanisms for Quantum Local Differential Privacy*.  
    **ACM CCS 2025**.  
    [Paper](https://dl.acm.org/doi/10.1145/3719027.3765178) · [DOI](https://doi.org/10.1145/3719027.3765178) · [arXiv](https://arxiv.org/abs/2407.13516) 
 
-7. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+8. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
    [Paper](https://dl.acm.org/doi/10.1145/3576915.3623108) · [DOI](https://doi.org/10.1145/3576915.3623108) · [arXiv](https://arxiv.org/abs/2309.04819)  

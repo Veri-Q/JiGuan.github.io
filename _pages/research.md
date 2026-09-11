@@ -55,11 +55,13 @@ Quantum machine learning and quantum data-processing pipelines can be vulnerable
 
 **Representative contributions**
 - Formal verification of local/global robustness for quantum classifiers.
+- Measurement-only certification of adversarial robustness under known-readout query access, with finite-sample guarantees and validation on IBM Quantum hardware.
 - Fairness verification for quantum machine learning.
 - Differential privacy analysis for quantum algorithms and quantum local privacy mechanisms.
 - Hardware-facing robustness benchmarking and validation on superconducting quantum processors.
 
 **Related publications**
+- **Guan, J.**, and Huang, M. *Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access*. **ACM CCS 2026**. Accepted; proceedings forthcoming. [arXiv](https://arxiv.org/abs/2609.11637)
 - **Guan, J.\***. *Optimal Mechanisms for Quantum Local Differential Privacy*. **ACM CCS 2025**. [Paper](https://dl.acm.org/doi/10.1145/3719027.3765178) · [DOI](https://doi.org/10.1145/3719027.3765178) · [arXiv](https://arxiv.org/abs/2407.13516)
 - **Guan, J.\***, Fang, W., Huang, M., and Ying, M. *Detecting Violations of Differential Privacy for Quantum Algorithms*. **ACM CCS 2023**. [Paper](https://dl.acm.org/doi/10.1145/3576915.3623108) · [DOI](https://doi.org/10.1145/3576915.3623108) · [arXiv](https://arxiv.org/abs/2309.04819)
 - **Guan, J.\***, Fang, W., and Ying, M. *Verifying Fairness in Quantum Machine Learning*. **CAV 2022**. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20) · [DOI](https://doi.org/10.1007/978-3-031-13188-2_20) · [arXiv](https://arxiv.org/abs/2207.11173)

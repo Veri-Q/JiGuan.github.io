@@ -9,6 +9,8 @@ author_profile: true
 
 - **[2026-09]** 📢 **TPC Member** — I have been invited to serve as a Technical Program Committee member for Track 2: Quantum Computing and Sensing at **[QCNC 2027](https://qcnc.org/)**, which will take place in Hokkaido, Japan, March 22-26, 2027.
 
+- **[2026-09-08]** 📄 **CCS Paper Accepted** — Our paper *"Certifying Adversarial Robustness of Quantum Classifiers under Known-Readout Query Access"* has been accepted to **[ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/)**. The preprint is now available on [arXiv](https://arxiv.org/abs/2609.11637); the proceedings version is forthcoming.
+
 - **[2026-08]** 📢 **Area Chair** — I have been nominated to serve as an Area Chair for the **[AI for Science Workshop at NeurIPS 2026](https://ai4sciencecommunity.github.io/neurips26.html)**.
 
 - **[2026-08]** 📢 **Invited Speaker** — I have been invited as a speaker to the **[Quantum Theory and Operator Theory (QTOT) Satellite Conference](http://qlab.bimsa.cn/events/qtot/2026)**, part of the International Congress of Basic Sciences (ICBS), in Huairou, Beijing, August 24-28, 2026.
